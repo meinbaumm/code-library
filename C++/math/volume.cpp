@@ -143,6 +143,8 @@ int main()
     std::cout << "Pyramid volume: " << Volume::pyramid_volume(10.0, 3.0) << std::endl;
     std::cout << "Sphere volume: " << Volume::sphere_volume(2.0) << std::endl;
     std::cout << "Circular Cylinder volume: " << Volume::circular_cylinder_volume(2.0, 3.0) << std::endl;
+        
+    return 0;
 }
 
 
